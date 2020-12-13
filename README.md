@@ -1,2 +1,2 @@
 # PythonProjects
-#Projects i am mostly proud of
+#Pythom projects i am mostly proud of
